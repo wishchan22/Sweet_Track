@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704681504795",
+    "project_id": "sweet-track-dba32",
+    "storage_bucket": "sweet-track-dba32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704681504795:android:d7981a4ff6dd548d52c8be",
+        "android_client_info": {
+          "package_name": "com.example.sweet_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXXbCzgWTR6q6nb1_qzrH0CFZOL1FSNPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
